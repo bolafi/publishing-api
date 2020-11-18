@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "5f181103d89eef2a7cf6ff1c",
+    "name": "Jarir",
+    "description": "Jarir is a famus bookstore and publisher for many kind of books",
+    "website": "https://www.jarir.com",
+    "phone": "4111-1111",
+    "email": "us@jarir.com",
+    "address": "233 main Rd ALrayyan 02215",
+    "genres": ["ROMANCE", "FICTION", "HISTORY"],
+    "user": "5f2918f5d4fa131cccfaa5fd"
+  },
+  {
+    "_id": "5f181103d89eef2a7cf6ff1b",
+    "genres": ["BIOGRAPHY", "DRAMA", "HISTORY"],
+    "photo": "no-photo.jpg",
+    "name": "Alwatan",
+    "description": "Alwatan is a famus bookstore and publisher for many kind of books",
+    "website": "https://www.alwatan.com",
+    "phone": "55995500",
+    "email": "write@alwatan.com",
+    "address": "7 gcc st aldafnah",
+    "user": "5f291910d4fa131cccfaa5fe"
+  },
+  {
+    "_id": "5f181082d89eef2a7cf6ff1a",
+    "genres": ["BIOGRAPHY", "DRAMA", "HISTORY"],
+    "photo": "no-photo.jpg",
+    "name": "Alsharq",
+    "description": "Alsharq is a famous bookstore and publisher for many kind of books",
+    "website": "https://www.alsharq.com",
+    "phone": "55995500",
+    "email": "write@alsharq.com",
+    "address": "21 february st almuntazah",
+    "user": "5f1ef1fce056200fd4e27974"
+  }
+]

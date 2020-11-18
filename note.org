@@ -1,0 +1,12 @@
+* DONE Error handler
+* DONE ASYNC handler
+* DONE SEEDER
+* DONE creating publisher data
+* DONE compelete the publisher routes 
+* DONE create advancedResults.js to select filter page limit...
+* DONE create slug
+* TODO Upload photo for publisher
+* DONE create Book model
+* TODO make the populate and virtuals
+* CANCELED create aggregation
+

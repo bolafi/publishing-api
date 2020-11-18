@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "5f2e51f4b42b420b40317788",
+    "title": "Great Place To Go for Fullstack",
+    "text": "Brilliant instructors... Magnifecun Faculty",
+    "rating": 9,
+    "publisher": "5f181103d89eef2a7cf6ff1c",
+    "user": "5f2e5151b42b420b40317786"
+  },
+  {
+    "_id": "5f2e524ab42b420b40317789",
+    "title": "Right Place to start",
+    "text": "Brilliant instructors... Magnifecun Faculty",
+    "rating": 7,
+    "publisher": "5f181103d89eef2a7cf6ff1c",
+    "user": "5f2e5167b42b420b40317787"
+  },
+  {
+    "_id": "5f2e4ee0b42b420b40317784",
+    "title": "Nice Bootcamp",
+    "text": "I learned a lot",
+    "rating": 8,
+    "publisher": "5f181103d89eef2a7cf6ff1c",
+    "user": "5f291858d4fa131cccfaa5fc"
+  },
+  {
+    "_id": "5f300e7b8535814f30499185",
+    "title": "I dot't recommend it",
+    "text": "Brilliant Staff bal bal bla ba l asdfasd asdfasdf  ",
+    "rating": 4,
+    "publisher": "5f181082d89eef2a7cf6ff1a",
+    "user": "5f300d32852924096c2af426"
+  },
+  {
+    "_id": "5f300e288535814f30499183",
+    "title": "al watan is the one",
+    "text": "Brilliant Staff bal bal bla ba l asdfasd asdfasdf  ",
+    "rating": 9,
+    "publisher": "5f181103d89eef2a7cf6ff1b",
+    "user": "5f300d32852924096c2af426"
+  }
+]

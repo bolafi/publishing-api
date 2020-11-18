@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "5f196ecd60de892ea420f84e",
+    "title": "Clean Code",
+    "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+    "writer": "Uncle Bob",
+    "price": 24.99,
+    "publisher": "5f181103d89eef2a7cf6ff1c",
+    "user": "5f2918f5d4fa131cccfaa5fd"
+  },
+  {
+    "_id": "5f19ac5c364fe619c03dcf75",
+    "title": "Eloquent JavaScript",
+    "description": "This is a book about JavaScript, programming, and the wonders of the digital",
+    "writer": "Marijn Haverbeke",
+    "price": 30.99,
+    "publisher": "5f181103d89eef2a7cf6ff1c",
+    "user": "5f2918f5d4fa131cccfaa5fd"
+  },
+  {
+    "_id": "5f19d58bd2e4cb3654285d72",
+    "title": "You Don't Know JavaScript",
+    "description": "It’s easy to learn parts of JavaScript, but much harder to learn it completely—or even sufficiently—whether you’re new to the language or have used it for years.",
+    "writer": "kyle Simpson",
+    "price": 34.99,
+    "publisher": "5f181103d89eef2a7cf6ff1c",
+    "user": "5f2918f5d4fa131cccfaa5fd"
+  },
+  {
+    "_id": "5f19d6968af43045940512e2",
+    "title": "The Islamic History",
+    "description": "It’s explaining the history of the Isalm since the born of prophet Mohammad.",
+    "writer": "Mustafa alaqaad",
+    "price": 19.99,
+    "publisher": "5f181082d89eef2a7cf6ff1a",
+    "user": "5f1ef1fce056200fd4e27974"
+  },
+  {
+    "_id": "5f19d7d871e8bd3414f1e8db",
+    "title": "JavaScript: The Good Parts",
+    "description": "This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code.",
+    "writer": "Douglas Crockford",
+    "price": 19.99,
+    "publisher": "5f181082d89eef2a7cf6ff1a",
+    "user": "5f1ef1fce056200fd4e27974"
+  },
+  {
+    "_id": "5f181103d89eef2a7cf6ff1b",
+    "title": "Across the Winding River",
+    "description": "A woman unlocks the mystery of her father’s wartime past in a moving novel about secrets, sacrifice, and the power of love by the bestselling author of Daughters of the Night Sky.",
+    "writer": "Aimie K Runyan",
+    "price": 10,
+    "publisher": "5f181103d89eef2a7cf6ff1b",
+    "user": "5f291910d4fa131cccfaa5fe"
+  },
+  {
+    "_id": "5f19e86971e8bd3414f1e8dd",
+    "title": "Daughters of the Night Sky",
+    "description": "A novel—inspired by the most celebrated regiment in the Red Army—about a woman’s sacrifice, courage, and love in a time of war.",
+    "writer": "Aimie K Runyan",
+    "price": 9.99,
+    "publisher": "5f181103d89eef2a7cf6ff1b",
+    "user": "5f291910d4fa131cccfaa5fe"
+  },
+  {
+    "_id": "5f1b21028d121e1004a92996",
+    "title": "The Power of now",
+    "description": "The international bestselling spiritual book, now with a new look for its 20th anniversary. Eckhart Tolle demonstrates how to live a healthier, happier, mindful life by living in the present moment.",
+    "writer": " Eckhart Tolle",
+    "price": 9.99,
+    "publisher": "5f181103d89eef2a7cf6ff1c",
+    "user": "5f2918f5d4fa131cccfaa5fd"
+  }
+]

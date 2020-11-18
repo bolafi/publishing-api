@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "5f1ee949ce8f8745382d204e",
+    "name": "hamad",
+    "email": "hamad@alkass.net",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "_id": "5f1ef1fce056200fd4e27974",
+    "name": "khalid",
+    "email": "khalid@alkass.net",
+    "role": "publisher",
+    "password": "123456"
+  },
+  {
+    "_id": "5f291858d4fa131cccfaa5fc",
+    "name": "bolafi",
+    "email": "bolafi@alkass.net",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "_id": "5f2918f5d4fa131cccfaa5fd",
+    "name": "ahmad jad",
+    "email": "ahmad@alkass.net",
+    "role": "publisher",
+    "password": "123456"
+  },
+  {
+    "_id": "5f291910d4fa131cccfaa5fe",
+    "name": "abdulrahman alhamad",
+    "email": "alhamad@alkass.net",
+    "role": "publisher",
+    "password": "123456"
+  },
+  {
+    "_id": "5f2eafbf8789ec31804f9e08",
+    "name": "Reem",
+    "email": "reem@alkass.net",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "_id": "5f300ced852924096c2af425",
+    "name": "Fahed alyazidi",
+    "email": "fahed@alkass.net",
+    "role": "user",
+    "password": "123456"
+  },
+  {
+    "_id": "5f300d32852924096c2af426",
+    "name": "aisha shmmakh",
+    "email": "aisha@alkass.net",
+    "role": "user",
+    "password": "123456"
+  }
+]
